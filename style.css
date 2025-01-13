@@ -1,0 +1,18 @@
+
+/* Estilos para el título h1*/
+h1 {
+    color:#7f36b7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Estilos para el título h2 */
+h2 {
+    color: #a182b3;
+}
+
+p {
+    color: #a182b3;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 24px;
+}
